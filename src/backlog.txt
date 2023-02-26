@@ -1,0 +1,10 @@
+** LEDs ansteuern
+** Elemente auf LEDs mappen
+** Uhrzeit auf elemente mappen
+** Wifi Verbinden
+** Uhrzeit holen
+
+* Information on Wifi connection
+* Animation (Fade)
+* Other colors
+* Animation (Color change)
